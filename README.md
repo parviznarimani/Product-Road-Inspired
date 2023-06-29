@@ -1,2 +1,2 @@
-# Product-Road-Inspired-
-How do today's most successful tech companies—Amazon, Google, Facebook, Netflix, Tesla—define, design and develop the products that have earned the love of literally billions of people around the world?
+# Product Road Inspired Book 
+How do today's most successful tech companies—Amazon, Google, Facebook, Netflix, Tesla—define, design and develop the products that have earned the love of literally billions of people around the world? Perhaps surprisingly, they do it very differently than the vast majority of tech companies. In INSPIRED, technology product management thought leader Marty Cagan provides readers with a master class in how to structure and staff an empowered and effective product organization, and how to discover and deliver technology products that your customers will love—and that will work for your business.
